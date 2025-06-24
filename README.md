@@ -1,4 +1,4 @@
-- Overview
+- Overview:
 A single script was created to handle token retrival, order and list of eSIMs.
 Debug logs were added and can be disabled by modifying lines 5-7 from airalo.py
 On token retrival we check the status code while on order we check status code, order package and order quantity.
